@@ -40,14 +40,14 @@ For smoother transactions, the app has the following main features.
 5. Product Listing
 
 
-### Introducing the team behind **Polymart**
+### Introducing the team behind **Polymart** 🙇‍♀️🙇‍♂️
 **The Polyrangers!** Led by El, together with Sol, Hanna, Jia, Ken, Ashley and Eli, we aim to bridge the gap between buyers and sellers.
 
-### Future Development
+### 🫡 Future Development
 Meet-up locations are restricted to the main campus of PUP Sta. Mesa. Polymart will not (yet) support reversible features of selling and buying at the same time. Update of transactions have to be manually updated by the seller. And Polymart will not be using paid API and database features, therefore limiting the features it will be able to utilize.
 
 ---
-### Fork our Repo!
+### 🤖 Fork our Repo!
 Use this template to create your own repository with existing directory structure and files to participate in our **Polymart**.
 
 1. On GitHub.com, navigate to the main page of this repository and click the **`Fork`** button.
