@@ -1,7 +1,8 @@
 <h1 align="center">🐶 Polymart User Manual 🐶</h1>
 Who among here bought products from the PUP Community? Who had a hard time meeting up with the seller because of poor internet connection? What about issues with the seller's time availability?
+
 ---
-Welcome to **Polymart**! A centralized platform made by yours truly, a PUPIAN ^__^. PUP’s very own marketplace tailored for PUP students sellers and buyers to simplify and streamline campus-based transactions. 
+Welcome to **Polymart** ! A centralized platform made by yours truly, a PUPIAN ^__^. PUP’s very own marketplace tailored for PUP students sellers and buyers to simplify and streamline campus-based transactions. 
 
 ### 👀 What's Inside It?
 
